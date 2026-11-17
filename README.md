@@ -1,5 +1,7 @@
 # BatteryMenu
 
+![BatteryMenu Screenshot](screenshots/batterymenu-menu.png)
+
 A lightweight macOS menu bar application that displays the battery levels of a Bluetooth keyboard and mouse.
 
 ## Features
